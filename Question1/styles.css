@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+   }
+   
+   #poemDiv {
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 3em;
+    text-align: center;
+   }
+   
+   #poem {
+    color: black;
+    font-style: italic;
+   }
